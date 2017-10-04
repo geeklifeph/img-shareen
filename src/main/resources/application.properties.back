@@ -3,3 +3,5 @@ server.port: 8180
 
 spring.mvc.view.prefix: /WEB-INF/jsp/
 spring.mvc.view.suffix: .jsp
+
+server.servlet.contextPath=/img

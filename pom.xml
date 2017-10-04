@@ -6,7 +6,7 @@
 	<groupId>com.snickernet.img</groupId>
 	<artifactId>img-webapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>img-webapp</name>
 	<description>Demo project for Spring Boot</description>
